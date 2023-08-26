@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: IIT GUWAHATI
-// Engineer: D.Saikrishna
+// Engineer: Varada Sai Sahith
 // 
 // Create Date: 05.05.2023 14:57:08
 // Design Name: 
